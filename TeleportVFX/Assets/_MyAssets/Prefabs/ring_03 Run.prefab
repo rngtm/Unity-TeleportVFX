@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2021802915140611432
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 976819577058868929, guid: 7064864ebde9fe74898929cfdd54d3c6, type: 3}
+      propertyPath: m_Name
+      value: ring
+      objectReference: {fileID: 0}
+    - target: {fileID: 976819577058868930, guid: 7064864ebde9fe74898929cfdd54d3c6, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 976819577058868930, guid: 7064864ebde9fe74898929cfdd54d3c6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 976819577058868930, guid: 7064864ebde9fe74898929cfdd54d3c6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 976819577058868930, guid: 7064864ebde9fe74898929cfdd54d3c6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 976819577058868930, guid: 7064864ebde9fe74898929cfdd54d3c6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 976819577058868930, guid: 7064864ebde9fe74898929cfdd54d3c6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 976819577058868930, guid: 7064864ebde9fe74898929cfdd54d3c6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 976819577058868930, guid: 7064864ebde9fe74898929cfdd54d3c6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 976819577058868930, guid: 7064864ebde9fe74898929cfdd54d3c6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 976819577058868930, guid: 7064864ebde9fe74898929cfdd54d3c6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 976819577058868930, guid: 7064864ebde9fe74898929cfdd54d3c6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 976819577058868940, guid: 7064864ebde9fe74898929cfdd54d3c6, type: 3}
+      propertyPath: lengthInSec
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 976819577058868940, guid: 7064864ebde9fe74898929cfdd54d3c6, type: 3}
+      propertyPath: RotationModule.y.scalar
+      value: 0.2617994
+      objectReference: {fileID: 0}
+    - target: {fileID: 976819577058868940, guid: 7064864ebde9fe74898929cfdd54d3c6, type: 3}
+      propertyPath: VelocityModule.y.scalar
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 976819577058868940, guid: 7064864ebde9fe74898929cfdd54d3c6, type: 3}
+      propertyPath: RotationModule.y.minScalar
+      value: 0.34906584
+      objectReference: {fileID: 0}
+    - target: {fileID: 976819577058868940, guid: 7064864ebde9fe74898929cfdd54d3c6, type: 3}
+      propertyPath: RotationModule.x.minMaxState
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 976819577058868940, guid: 7064864ebde9fe74898929cfdd54d3c6, type: 3}
+      propertyPath: RotationModule.y.minMaxState
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 976819577058868940, guid: 7064864ebde9fe74898929cfdd54d3c6, type: 3}
+      propertyPath: InitialModule.startSizeY.scalar
+      value: 0.007
+      objectReference: {fileID: 0}
+    - target: {fileID: 976819577058868940, guid: 7064864ebde9fe74898929cfdd54d3c6, type: 3}
+      propertyPath: RotationModule.curve.minMaxState
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7064864ebde9fe74898929cfdd54d3c6, type: 3}
